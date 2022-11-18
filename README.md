@@ -8,3 +8,4 @@ EXERCICIOS SOBRE OPERADORES
     Operadores
         -Utiliza biblioteca JOptionPane
         -Exemplifica operações com operadores simples
+        -Informe dois números quaisquer
