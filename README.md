@@ -9,3 +9,4 @@ EXERCICIOS SOBRE OPERADORES
         -Utiliza biblioteca JOptionPane
         -Exemplifica operações com operadores simples
         -Informe dois números quaisquer
+        -Soma, subtrai, multiplica e divide os dois números
