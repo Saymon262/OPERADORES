@@ -6,3 +6,4 @@ EXERCICIOS SOBRE OPERADORES
         -Calcula o fatorial de qualquer número desejável
   
     Operadores
+        -Exemplifica operações com operadores simples
