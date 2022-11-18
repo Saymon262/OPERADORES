@@ -1,2 +1,6 @@
 # OPERADORES
 EXERCICIOS SOBRE OPERADORES
+
+    Fatorial
+  
+    Operadores
